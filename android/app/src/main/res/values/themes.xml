@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.TokiLearn" parent="android:Theme.Material.NoActionBar" />
+</resources>

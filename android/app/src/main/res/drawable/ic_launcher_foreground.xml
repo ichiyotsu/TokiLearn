@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- TokiLearn launcher mark: open-book glyph in TokiUI seed purple. -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M18,22 h72 a8,8 0 0 1 8,8 v52 a8,8 0 0 1 -8,8 H18 a8,8 0 0 1 -8,-8 V30 a8,8 0 0 1 8,-8z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M54,34 v40 M30,34 h48 M30,46 h48 M30,58 h48" />
+</vector>
